@@ -1,0 +1,1 @@
+# artemkozlenkov-azure-container-apps-private-dns
